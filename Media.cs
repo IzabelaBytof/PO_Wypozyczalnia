@@ -18,7 +18,8 @@ public abstract class Media : IWypozyczalny
     }
     public void Wypozycz(Klient klient)
     {
-
+        klient.DodajMedia(this);
+        Console.WriteLine("Wypożyczono " + tytul);
     }
     public virtual bool SprawdzDostepnosc()
     {

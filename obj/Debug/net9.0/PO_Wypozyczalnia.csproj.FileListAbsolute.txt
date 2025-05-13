@@ -12,3 +12,4 @@ C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\re
 C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.pdb
 C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.genruntimeconfig.cache
 C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\ref\PO_Wypozyczalnia.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.sourcelink.json
