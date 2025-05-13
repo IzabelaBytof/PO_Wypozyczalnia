@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\bin\Debug\net9.0\PO_Wypozyczalnia.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\bin\Debug\net9.0\PO_Wypozyczalnia.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\bin\Debug\net9.0\PO_Wypozyczalnia.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\bin\Debug\net9.0\PO_Wypozyczalnia.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\bin\Debug\net9.0\PO_Wypozyczalnia.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\refint\PO_Wypozyczalnia.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\PO_Wypozyczalnia.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Wypozyczalnia\obj\Debug\net9.0\ref\PO_Wypozyczalnia.dll
